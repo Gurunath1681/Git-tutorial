@@ -5,3 +5,10 @@ print("from main")
 print("from samsung")
 print("this is from dev1")
 print("dev2")
+
+for i in sfdfsa:
+    sadfsadfj\
+            asfsadf
+            sadf
+            asfd
+            asfdsdf
