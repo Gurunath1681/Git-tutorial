@@ -12,3 +12,7 @@ for i in sfdfsa:
             sadf
             asfd
             asfdsdf
+while sdfdsf<sdfsf:
+    sdfsfgsdg
+    dsfgdsfgds
+    asdsfgsdgd
